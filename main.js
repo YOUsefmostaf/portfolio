@@ -28,7 +28,7 @@ let projects = {
     "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain...",
     "https://github.com/YOUsefmostaf/Educa",
     "https://yousefmostaf.github.io/Educa/",
-    "images/image3.png",
+    "images/image3.PNG",
   ],
   1: [
     "Featured Project",
@@ -36,7 +36,7 @@ let projects = {
     "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain...",
     "https://github.com/YOUsefmostaf/SEO",
     "https://yousefmostaf.github.io/SEO/",
-    "images/image4.png",
+    "images/image4.PNG",
   ],
   2: [
     "Featured Project",
@@ -44,7 +44,7 @@ let projects = {
     "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain...",
     "https://github.com/YOUsefmostaf/Y...E_Hotile",
     "https://yousefmostaf.github.io/Y...E_Hotile/",
-    "images/image5.png",
+    "images/image5.PNG",
   ],
   3: [
     "Featured Project",
@@ -52,7 +52,7 @@ let projects = {
     "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain...",
     "https://github.com/YOUsefmostaf/TodoList",
     "https://yousefmostaf.github.io/TodoList/",
-    "images/image2.png",
+    "images/image2.PNG",
   ],
   4: [
     "Featured Project",
@@ -60,7 +60,7 @@ let projects = {
     "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain...",
     "https://github.com/YOUsefmostaf/clock",
     "https://yousefmostaf.github.io/clock/",
-    "images/image1.png",
+    "images/image1.PNG",
   ],
   5: [
     "Featured Project",
@@ -68,7 +68,7 @@ let projects = {
     "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain...",
     "https://github.com/YOUsefmostaf/Weather-App",
     "https://yousefmostaf.github.io/Weather-App/",
-    "images/image6.png",
+    "images/image6.PNG",
   ],
   6: [
     "Featured Project",
@@ -76,7 +76,7 @@ let projects = {
     "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain...",
     "https://github.com/YOUsefmostaf/rock-paper-scissors-master",
     "https://yousefmostaf.github.io/rock-paper-scissors-master/",
-    "images/image7.png",
+    "images/image7.PNG",
   ],
 };
 
